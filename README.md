@@ -13,7 +13,7 @@
 <!--[![Ford Versicherungs-Vermittlungs GmbH](https://readme-components.vercel.app/api?component=experience&company=Ford%20Versicherungs-Vermittlungs%20GmbH)](https://fvv.de)-->
 <!--[![Ford Versicherungs-Vermittlungs GmbH](https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png)](https://fvv.de)-->
 <a href="https://fvv.de">
-    <img src="https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png" width="100">
+    <img src="https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png" width="150">
 </a>
 
 -
