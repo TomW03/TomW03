@@ -11,7 +11,7 @@
 ### Job experiences
 [![DEVK](https://readme-components.vercel.app/api?component=experience&company=DEVK)](https://www.devk.de)
 <!--[![Ford Versicherungs-Vermittlungs GmbH](https://readme-components.vercel.app/api?component=experience&company=Ford%20Versicherungs-Vermittlungs%20GmbH)](https://fvv.de)-->
-[![Ford Versicherungs-Vermittlungs GmbH](https://github.com/)](https://fvv.de)
+[![Ford Versicherungs-Vermittlungs GmbH](https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png)](https://fvv.de)
 ### Tech Stack
 [![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://github.com/harish-sethuraman/readme-components)
 
