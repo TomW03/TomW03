@@ -19,7 +19,7 @@
 
 
 ### Tech Stack
-[![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://github.com/harish-sethuraman/readme-components)
+[![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=3)](https://github.com/harish-sethuraman/readme-components)
 -
 
 ### Where to reach me
