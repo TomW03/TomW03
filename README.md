@@ -7,8 +7,10 @@
 <!-- ![](https://komarev.com/ghpvc/?username=TomW03&color=red)--> <!-- Profile Views -->
 </details>
 
-### Job experiences
+<details>
+  <summary><b>Job experiences</b></summary>
 <a href="https://devk.de"><img style="vertical-align: middle; height: 150px; object-fit: contain;width: 250px;" src="https://github.com/TomW03/TomW03/blob/main/assets/logos/DEVK_Versicherung_logo.png" width="150" alt="DEVK Versicherung Logo"></a><a href="https://fvv.de"><img style="vertical-align: middle; height: 150px; object-fit: contain; width: 150px;" src="https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png" alt="Ford Versicherungs-vermittlungs GmbH"></a>
+</details>
 
 ### Tech Stack
 [![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://docker.com)
