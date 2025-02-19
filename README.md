@@ -15,8 +15,10 @@
 ### Tech Stack
 
 <div style="background-color: white; padding: 10px; border-radius: 5px;">
+  
 [![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://docker.com)
 [![K8s](https://readme-components.vercel.app/api?component=star-rating&skill=kubernetes&text=2)](https://kubernetes.io)
+
 </div>
 
 ### Where to reach me
