@@ -13,8 +13,8 @@
 </details>
 
 ### Tech Stack
-[![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4&fill=white)](https://docker.com)
-[![K8s](https://readme-components.vercel.app/api?component=star-rating&skill=kubernetes&text=2&fill=white)](https://kubernetes.io)
+[![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4&fill=ffffff)](https://docker.com)
+[![K8s](https://readme-components.vercel.app/api?component=star-rating&skill=kubernetes&text=2&fill=ffffff)](https://kubernetes.io)
 
 
 ### Where to reach me
