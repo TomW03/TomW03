@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>Stats</summary>
+  <summary><b>Stats</b></summary>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomW03&theme=tokyonight) <!-- Used Languages -->
 <!-- ![](https://komarev.com/ghpvc/?username=TomW03&color=red)--> <!-- Profile Views -->
 </details>
@@ -34,8 +34,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tom-w-709866253)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tomwe03)
 -
-### Used in this Repo
+<summary><b>Used in this Repo</b></summary>
+<details>
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components?tab=readme-ov-file#star-rating-component)
+</details>
 <!--
 **TomW03/TomW03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
