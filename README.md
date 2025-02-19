@@ -36,7 +36,9 @@
 -
 <summary><b>Used in this Repo</b></summary>
 <details>
-[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components?tab=readme-ov-file#star-rating-component)
+
+  [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components?tab=readme-ov-file#star-rating-component)
+  
 </details>
 <!--
 **TomW03/TomW03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
