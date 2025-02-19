@@ -9,10 +9,12 @@
 
 
 ### Job experiences
-[![DEVK](https://readme-components.vercel.app/api?component=experience&company=DEVK)](https://www.devk.de)
+
 <a href="https://fvv.de"><img src="https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png" width="150" alt="Ford Versicherungs-vermittlungs GmbH"></a>
-<!--[![Ford Versicherungs-Vermittlungs GmbH](https://readme-components.vercel.app/api?component=experience&company=Ford%20Versicherungs-Vermittlungs%20GmbH)](https://fvv.de)-->
-<!--[![Ford Versicherungs-Vermittlungs GmbH](https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png)](https://fvv.de)-->
+<!--
+[![DEVK](https://readme-components.vercel.app/api?component=experience&company=DEVK)](https://www.devk.de)
+[![Ford Versicherungs-Vermittlungs GmbH](https://readme-components.vercel.app/api?component=experience&company=Ford%20Versicherungs-Vermittlungs%20GmbH)](https://fvv.de)
+[![Ford Versicherungs-Vermittlungs GmbH](https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png)](https://fvv.de)-->
 
 -
 ### Tech Stack
