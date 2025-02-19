@@ -10,7 +10,7 @@
 
 ### Job experiences
 <a href="https://devk.de">
-    <img style="vertical-align: middle; height: 150px; object-fit: contain;width: 150px;" 
+    <img style="vertical-align: middle; height: 150px; object-fit: contain;width: 250px;" 
          src="https://github.com/TomW03/TomW03/blob/main/assets/logos/DEVK_Versicherung_logo.png" width="150" alt="DEVK Versicherung Logo">
 </a>
 <a href="https://fvv.de">
