@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomW03&theme=tokyonight)
 -
 
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company="Ford Versicherungs-Vermittlungs GmbH")](https://github.com/harish-sethuraman/readme-components)
+[![Experience component](https://readme-components.vercel.app/api?component=experience&company=Ford_Versicherungs-Vermittlungs_GmbH")](https://github.com/harish-sethuraman/readme-components)
 <!--
 **TomW03/TomW03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
