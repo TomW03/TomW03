@@ -13,7 +13,8 @@
 <a href="https://fvv.de"><img style="vertical-align: middle; height: 150px; object-fit: contain; width: 150px;" src="https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png" alt="Ford Versicherungs-vermittlungs GmbH"></a>
 
 ### Tech Stack
-[![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=3)](https://github.com/harish-sethuraman/readme-components)
+[![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://docker.com)
+[![K8s](https://readme-components.vercel.app/api?component=star-rating&skill=kubernetes&text=3)](https://kubernetes.io)
 -
 
 ### Where to reach me
@@ -21,12 +22,12 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TomW03)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tom-w-709866253)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tomwe03)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:mail@tom-weckwerth.de)
 -
 <summary><b>Used in this Repo</b></summary>
 <details>
 
-  [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components?tab=readme-ov-file#star-rating-component)
+  [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components?tab=readme-ov-file#star-rating-component)(https://github.com/harish-sethuraman/readme-components)
   
 </details>
 <!--
