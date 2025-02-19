@@ -13,7 +13,6 @@
 [![Ford Versicherungs-Vermittlungs GmbH]()](https://fvv.de)
 
 -
-
 ### Tech Stack
 [![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://github.com/harish-sethuraman/readme-components)
 
