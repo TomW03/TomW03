@@ -15,8 +15,10 @@
 ### Tech Stack
 [![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)](https://docker.com)
 [![](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://docker.com)
+
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![](https://readme-components.vercel.app/api?component=star-rating&skill=kubernetes&text=2)](https://kubernetes.io)
+
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![](https://readme-components.vercel.app/api?component=star-rating&skill=terraform&text=3)](https://terraform.io)
 
