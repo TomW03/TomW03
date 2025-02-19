@@ -10,7 +10,7 @@
 
 ### Job experiences
 blob/main/assets/logos/DEVK_Versicherung_logo.jpg
-<a href="https://devk.de"><img src="https://github.com/TomW03/TomW03/blob/main/assets/logos/DEVK_Versicherung_logo.png" width="150" alt="DEVK Versicherung Logo"></a>
+<a href="https://devk.de"><img src="https://github.com/TomW03/TomW03/blob/main/assets/logos/DEVK_Versicherung_logo.png" heigth="150" width="150" alt="DEVK Versicherung Logo"></a>
 <a href="https://fvv.de"><img src="https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png" width="150" alt="Ford Versicherungs-vermittlungs GmbH"></a>
 
 <!--
