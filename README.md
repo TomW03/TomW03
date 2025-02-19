@@ -17,11 +17,11 @@
 [![Ford Versicherungs-Vermittlungs GmbH](https://readme-components.vercel.app/api?component=experience&company=Ford%20Versicherungs-Vermittlungs%20GmbH)](https://fvv.de)
 [![Ford Versicherungs-Vermittlungs GmbH](https://github.com/TomW03/TomW03/blob/main/assets/logos/Ford_Versicherungsvermittlungs_GmbH_logo.png)](https://fvv.de)-->
 
--
+
 ### Tech Stack
 [![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://github.com/harish-sethuraman/readme-components)
-
 -
+
 ### Where to reach me
  
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TomW03)
