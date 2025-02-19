@@ -35,7 +35,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tomwe03)
 -
 ### Used in this Repo
-[![StarRating Component](https://github.com/harish-sethuraman/readme-components)](https://github.com/harish-sethuraman/readme-components?tab=readme-ov-file#star-rating-component)
+[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components?tab=readme-ov-file#star-rating-component)
 <!--
 **TomW03/TomW03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
