@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- ![](https://komarev.com/ghpvc/?username=TomW03&color=red)-->
--
+
 <details>
   <summary>Stats</summary>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomW03&theme=tokyonight)  
@@ -14,7 +14,8 @@
   <summary><b>Where to reach me</b></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TomW03)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/tom-w-709866253)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tom-w-709866253)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tomwe03)
 </details>
 
 ### Experiences
