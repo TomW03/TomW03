@@ -13,10 +13,11 @@
 </details>
 
 ### Tech Stack
-[![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4&fill=ffffff)](https://docker.com)
-[![K8s](https://readme-components.vercel.app/api?component=star-rating&skill=kubernetes&text=2&fill=ffffff)](https://kubernetes.io)
-[![k8s](https://readme-components.vercel.app/api?component=star-rating&fill=ffffff&skill=kubernetes&text=2)]()
 
+<div style="background-color: white; padding: 10px; border-radius: 5px;">
+[![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://docker.com)
+[![K8s](https://readme-components.vercel.app/api?component=star-rating&skill=kubernetes&text=2)](https://kubernetes.io)
+</div>
 
 ### Where to reach me
  
