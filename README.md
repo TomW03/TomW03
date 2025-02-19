@@ -8,10 +8,10 @@
 </details>
 -
 
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company=DEVK")]
+[![DEVK](https://readme-components.vercel.app/api?component=experience&company=DEVK")](https://www.devk.de)
 -
 ### Experiences
-- Docker [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://github.com/harish-sethuraman/readme-components)
+[![Docker](https://readme-components.vercel.app/api?component=star-rating&skill=docker3&text=4)](https://github.com/harish-sethuraman/readme-components)
 -
 ### Where to reach me
  
@@ -20,7 +20,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tomwe03)
 -
 ### Used in this Repo
-![](https://github.com/harish-sethuraman/readme-components)
+[![StarRating Component](https://github.com/harish-sethuraman/readme-components)]
 <!--
 **TomW03/TomW03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![]()]()
 -->
