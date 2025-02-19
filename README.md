@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=TomW03&color=red)
-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomW03&theme=tokyonight)
+<!-- ![](https://komarev.com/ghpvc/?username=TomW03&color=red)-->
+-
+<details>
+  <summary>Stats</summary>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomW03&theme=tokyonight)  
+</details>
 -
 
 [![Experience component](https://readme-components.vercel.app/api?component=experience&company=DEVK")](https://github.com/harish-sethuraman/readme-components)
