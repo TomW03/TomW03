@@ -22,6 +22,8 @@
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![](https://readme-components.vercel.app/api?component=star-rating&skill=terraform&text=3)](https://terraform.io)
 
+[![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/ansible/latest/index.html)
+[![](https://readme-components.vercel.app/api?component=star-rating&skill=ansible&text=4)]
 ### Where to reach me
  
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TomW03)
